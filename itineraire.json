@@ -1,0 +1,615 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍕",
+  "titre": "Dolce Vita et Détente en Italie : De Rome à la Côte Amalfitaine",
+  "budget_total": "Environ 3300 €/personne",
+  "duree": "16 jours",
+  "temps_vol": "2h00 (depuis Paris CDG, prévoir 3-4h de trajet depuis Besson, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Rome et Première Immersion",
+      "legende": "Après un voyage depuis Besson, France, et le vol, cette première journée à Rome est dédiée à une arrivée en douceur. Installez-vous confortablement et laissez-vous charmer par l'ambiance romaine lors d'une balade relaxante dans le quartier de votre hôtel. Profitez d'un premier dîner typiquement italien pour bien commencer votre séjour.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Rome Fiumicino (FCO).",
+        "<strong>🚆</strong>: Transfert vers le centre-ville de Rome et installation à l'hôtel.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans le quartier de Trastevere ou autour du Panthéon."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Rome Fiumicino, Rome",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.8002, "lng": 12.2389 }
+        },
+        {
+          "nom_recherche": "Quartier Trastevere, Rome",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.8893, "lng": 12.4735 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil Arrivée",
+          "texte": "Le trajet depuis Besson, France, jusqu'à l'aéroport de Paris CDG peut prendre plusieurs heures. Prévoyez une marge confortable pour votre vol et une première journée légère à Rome pour récupérer."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Trésors Antiques et Fontaines Éternelles",
+      "legende": "Plongez au cœur de l'histoire romaine avec une exploration douce des sites antiques. L'après-midi sera consacrée à la découverte des célèbres fontaines et places, offrant des moments de pure \"Dolce Vita\".",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Visite extérieure du Colisée et du Forum Romain (vues panoramiques).",
+        "<strong>⛲</strong>: Lancer une pièce dans la Fontaine de Trevi.",
+        "<strong>🏛️</strong>: Admirer le Panthéon et la Piazza Navona."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Colisée, Rome",
+          "categorie": "Site antique",
+          "coords": { "lat": 41.8902, "lng": 12.4922 }
+        },
+        {
+          "nom_recherche": "Fontaine de Trevi, Rome",
+          "categorie": "Monument",
+          "coords": { "lat": 41.9009, "lng": 12.4833 }
+        },
+        {
+          "nom_recherche": "Panthéon, Rome",
+          "categorie": "Monument",
+          "coords": { "lat": 41.8986, "lng": 12.4769 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce Visite",
+          "texte": "Pour le Colisée et le Forum, privilégiez les vues extérieures depuis les hauteurs pour éviter la foule et les longues marches, tout en profitant de l'ampleur des lieux."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🇻🇦",
+      "titre": "Majesté du Vatican et Sérénité des Jardins",
+      "legende": "Découvrez la grandeur de la Cité du Vatican, avec la Basilique Saint-Pierre et les Musées du Vatican. L'après-midi, échappez à l'agitation en vous promenant paisiblement dans les jardins de la Villa Borghese, un véritable havre de paix.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Basilique Saint-Pierre et de la Place Saint-Pierre.",
+        "<strong>🖼️</strong>: Exploration des Musées du Vatican et de la Chapelle Sixtine (réservation essentielle).",
+        "<strong>🌳</strong>: Détente et balade dans les jardins de la Villa Borghese."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Basilique Saint-Pierre, Cité du Vatican",
+          "categorie": "Lieu de culte",
+          "coords": { "lat": 41.9022, "lng": 12.4571 }
+        },
+        {
+          "nom_recherche": "Musées du Vatican, Cité du Vatican",
+          "categorie": "Musée",
+          "coords": { "lat": 41.9064, "lng": 12.4537 }
+        },
+        {
+          "nom_recherche": "Jardins de la Villa Borghese, Rome",
+          "categorie": "Parc",
+          "coords": { "lat": 41.9148, "lng": 12.4864 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Confort",
+          "texte": "Prévoyez des chaussures confortables pour les longues marches au Vatican et dans les jardins. Les épaules et genoux doivent être couverts pour la Basilique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🚆",
+      "titre": "Voyage vers Florence et Charme Florentin",
+      "legende": "Quittez Rome en train pour rejoindre Florence, la capitale de la Toscane. Après l'installation, une première immersion dans la ville vous mènera au célèbre Ponte Vecchio et à la Piazza della Signoria, avant un coucher de soleil mémorable.",
+      "lieu": "Florence",
+      "activites": [
+        "<strong>🚄</strong>: Trajet en train à grande vitesse de Rome à Florence (environ 1h30).",
+        "<strong>🛏️</strong>: Installation à l'hôtel et déjeuner léger.",
+        "<strong>🚶‍♀️</strong>: Balade le long de l'Arno, découverte du Ponte Vecchio et de la Piazza della Signoria.",
+        "<strong>🌅</strong>: Coucher de soleil depuis le Piazzale Michelangelo."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Florence Santa Maria Novella, Florence",
+          "categorie": "Gare",
+          "coords": { "lat": 43.7766, "lng": 11.2497 }
+        },
+        {
+          "nom_recherche": "Ponte Vecchio, Florence",
+          "categorie": "Pont",
+          "coords": { "lat": 43.7681, "lng": 11.2531 }
+        },
+        {
+          "nom_recherche": "Piazzale Michelangelo, Florence",
+          "categorie": "Point de vue",
+          "coords": { "lat": 43.7629, "lng": 11.2638 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Billets de train",
+          "texte": "Réservez vos billets de train Rome-Florence à l'avance pour bénéficier de meilleurs tarifs et assurer votre place."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🎨",
+      "titre": "Chef-d'œuvres Florentins et Ambiance Artisanale",
+      "legende": "Explorez les icônes de Florence, du majestueux Duomo aux trésors de la Galerie des Offices. L'après-midi, flânez dans le quartier de l'Oltrarno, réputé pour ses ateliers d'artisans et son atmosphère plus authentique.",
+      "lieu": "Florence",
+      "activites": [
+        "<strong>⛪</strong>: Admiration de la Cathédrale Santa Maria del Fiore (Duomo) et du Campanile de Giotto.",
+        "<strong>🖼️</strong>: Visite de la Galerie des Offices (réservation fortement recommandée).",
+        "<strong>🛍️</strong>: Découverte du quartier de l'Oltrarno et de ses boutiques d'artisans."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale Santa Maria del Fiore, Florence",
+          "categorie": "Lieu de culte",
+          "coords": { "lat": 43.7731, "lng": 11.2558 }
+        },
+        {
+          "nom_recherche": "Galerie des Offices, Florence",
+          "categorie": "Musée",
+          "coords": { "lat": 43.7689, "lng": 11.2559 }
+        },
+        {
+          "nom_recherche": "Quartier Oltrarno, Florence",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.7672, "lng": 11.2489 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🍦",
+          "titre": "Pause Gourmande",
+          "texte": "Ne manquez pas de goûter une glace artisanale (gelato) dans l'une des nombreuses gelaterias de Florence."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "♨️",
+      "titre": "Détente Thermale au Cœur de la Toscane",
+      "legende": "Quittez l'effervescence de Florence pour une journée de pure relaxation dans les sources thermales naturelles de Toscane. Louez une voiture pour explorer la campagne et vous immerger dans les eaux chaudes et bienfaisantes.",
+      "lieu": "Toscane (Saturnia ou Bagni San Filippo)",
+      "activites": [
+        "<strong>🚗</strong>: Prise en charge d'une voiture de location à Florence.",
+        "<strong> scenic_drive</strong>: Route panoramique à travers la campagne toscane.",
+        "<strong>♨️</strong>: Baignade et détente aux sources thermales de Saturnia ou Bagni San Filippo.",
+        "<strong>🛏️</strong>: Installation dans un agriturismo typique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Terme di Saturnia, Saturnia",
+          "categorie": "Sources thermales",
+          "coords": { "lat": 42.6473, "lng": 11.5147 }
+        },
+        {
+          "nom_recherche": "Bagni San Filippo, Castiglione d'Orcia",
+          "categorie": "Sources thermales",
+          "coords": { "lat": 43.0125, "lng": 11.6444 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "👙",
+          "titre": "Préparation",
+          "texte": "N'oubliez pas votre maillot de bain, une serviette et des sandales pour profiter pleinement des sources thermales naturelles."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🍇",
+      "titre": "Sienne Médiévale et Douceur du Chianti",
+      "legende": "Découvrez la magnifique ville médiévale de Sienne, avec sa célèbre Piazza del Campo. L'après-midi, laissez-vous porter par les paysages vallonnés du Chianti, ponctuée d'une dégustation de vin dans un cadre paisible.",
+      "lieu": "Sienne et Chianti",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Exploration de Sienne : Piazza del Campo, Duomo (extérieur).",
+        "<strong>🚗</strong>: Route à travers la région viticole du Chianti.",
+        "<strong>🍷</strong>: Dégustation de vin dans un domaine viticole local (sur réservation)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piazza del Campo, Sienne",
+          "categorie": "Place historique",
+          "coords": { "lat": 43.3184, "lng": 11.3315 }
+        },
+        {
+          "nom_recherche": "Duomo di Siena, Sienne",
+          "categorie": "Lieu de culte",
+          "coords": { "lat": 43.3185, "lng": 11.3299 }
+        },
+        {
+          "nom_recherche": "Région du Chianti, Toscane",
+          "categorie": "Région viticole",
+          "coords": { "lat": 43.5833, "lng": 11.3333 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Navigation",
+          "texte": "Un GPS ou une application de navigation sera très utile pour explorer les petites routes de campagne du Chianti."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏰",
+      "titre": "Tours de San Gimignano et Charme de Volterra",
+      "legende": "Visitez les tours médiévales de San Gimignano, puis explorez la cité étrusque de Volterra, connue pour son histoire et ses artisans de l'albâtre. Une journée entre patrimoine et artisanat, à un rythme tranquille.",
+      "lieu": "San Gimignano et Volterra",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Découverte de San Gimignano, la \"ville aux belles tours\", et dégustation de sa célèbre glace.",
+        "<strong>🚗</strong>: Courte route vers Volterra.",
+        "<strong>🏺</strong>: Exploration de Volterra, son théâtre romain et ses ateliers d'albâtre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "San Gimignano, Sienne",
+          "categorie": "Ville médiévale",
+          "coords": { "lat": 43.4677, "lng": 11.0427 }
+        },
+        {
+          "nom_recherche": "Volterra, Pise",
+          "categorie": "Ville étrusque",
+          "coords": { "lat": 43.4000, "lng": 10.8600 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🍦",
+          "titre": "Glace",
+          "texte": "La Gelateria Dondoli à San Gimignano est mondialement réputée pour ses saveurs originales. À ne pas manquer !"
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🍕",
+      "titre": "De la Toscane à la Vibrante Naples",
+      "legende": "Après avoir rendu votre voiture à Florence, prenez un train rapide vers Naples, la ville natale de la pizza. Installez-vous et plongez immédiatement dans l'ambiance unique de son centre historique, avant de savourer une authentique pizza napolitaine.",
+      "lieu": "Naples",
+      "activites": [
+        "<strong>🚗</strong>: Retour de la voiture de location à Florence.",
+        "<strong>🚄</strong>: Trajet en train à grande vitesse de Florence à Naples (environ 3h).",
+        "<strong>🛏️</strong>: Installation à l'hôtel à Naples.",
+        "<strong>🚶‍♂️</strong>: Balade dans le quartier de Spaccanapoli et dîner pizza."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Florence Santa Maria Novella, Florence",
+          "categorie": "Gare",
+          "coords": { "lat": 43.7766, "lng": 11.2497 }
+        },
+        {
+          "nom_recherche": "Gare de Naples Centrale, Naples",
+          "categorie": "Gare",
+          "coords": { "lat": 40.8522, "lng": 14.2721 }
+        },
+        {
+          "nom_recherche": "Spaccanapoli, Naples",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.8490, "lng": 14.2560 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention",
+          "texte": "Naples est une ville vibrante et animée. Soyez attentifs à vos affaires personnelles, surtout dans les zones très fréquentées."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🌋",
+      "titre": "Voyage dans le Temps à Pompéi",
+      "legende": "Partez pour une excursion fascinante à Pompéi, la cité antique figée par l'éruption du Vésuve. Prenez votre temps pour explorer les ruines, puis profitez des vues sur le volcan depuis les environs, sans ascension.",
+      "lieu": "Pompéi",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en Circumvesuviana de Naples à Pompéi.",
+        "<strong>🚶‍♀️</strong>: Visite des ruines de Pompéi (prévoir 3-4h, à votre rythme).",
+        "<strong>🏞️</strong>: Admirer le Vésuve depuis les environs de Pompéi.",
+        "<strong>🚆</strong>: Retour à Naples en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Site archéologique de Pompéi, Pompéi",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 40.7487, "lng": 14.4987 }
+        },
+        {
+          "nom_recherche": "Vésuve, Naples",
+          "categorie": "Volcan",
+          "coords": { "lat": 40.8210, "lng": 14.4260 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Protection Solaire",
+          "texte": "Pompéi est un site très ouvert. Prévoyez chapeau, lunettes de soleil et crème solaire, surtout en mai/juin."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🏖️",
+      "titre": "Charme de la Côte Amalfitaine : Positano",
+      "legende": "Laissez l'agitation de Naples derrière vous pour rejoindre la sublime Côte Amalfitaine. Installez-vous à Positano, un village pittoresque accroché à la falaise, et profitez de l'après-midi pour vous détendre sur la plage ou flâner dans ses ruelles colorées.",
+      "lieu": "Positano",
+      "activites": [
+        "<strong>🚌</strong>: Transfert de Naples à Positano (bus ou ferry via Sorrente).",
+        "<strong>🛏️</strong>: Installation à l'hôtel avec vue sur la mer.",
+        "<strong>🚶‍♀️</strong>: Balade dans les ruelles de Positano et détente sur la plage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Positano, Salerne",
+          "categorie": "Village côtier",
+          "coords": { "lat": 40.6291, "lng": 14.4849 }
+        },
+        {
+          "nom_recherche": "Plage de Positano, Positano",
+          "categorie": "Plage",
+          "coords": { "lat": 40.6280, "lng": 14.4860 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🎒",
+          "titre": "Bagages",
+          "texte": "Les rues de Positano sont très pentues et il y a beaucoup d'escaliers. Voyagez léger ou prévoyez un sac à dos plutôt qu'une valise à roulettes."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "⛵",
+      "titre": "Évasion Insulaire à Capri",
+      "legende": "Embarquez pour une journée d'excursion sur l'île de Capri, réputée pour ses paysages spectaculaires et ses eaux turquoise. Profitez d'une balade en bateau autour de l'île et d'un moment de détente sur ses hauteurs.",
+      "lieu": "Capri",
+      "activites": [
+        "<strong>🛥️</strong>: Traversée en ferry de Positano à Capri.",
+        "<strong>🚤</strong>: Tour en bateau autour de l'île (Grottes, Faraglioni).",
+        "<strong>🚡</strong>: Montée en télésiège au Monte Solaro pour des vues panoramiques.",
+        "<strong>🛥️</strong>: Retour à Positano en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port de Capri, Capri",
+          "categorie": "Port",
+          "coords": { "lat": 40.5540, "lng": 14.2400 }
+        },
+        {
+          "nom_recherche": "Monte Solaro, Anacapri",
+          "categorie": "Montagne",
+          "coords": { "lat": 40.5480, "lng": 14.2120 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Grotte Bleue",
+          "texte": "La Grotte Bleue est magnifique mais l'attente peut être longue et l'accès dépend des conditions météorologiques. Une balade autour de l'île offre déjà des vues splendides."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🌸",
+      "titre": "Jardins Suspendus de Ravello et Vues Panoramiques",
+      "legende": "Découvrez Ravello, un joyau perché sur les hauteurs de la Côte Amalfitaine. Ses villas et jardins offrent des panoramas à couper le souffle sur la mer. Une journée dédiée à la beauté et à la sérénité.",
+      "lieu": "Ravello",
+      "activites": [
+        "<strong>🚌</strong>: Trajet en bus local de Positano à Ravello (via Amalfi).",
+        "<strong>🌳</strong>: Visite des jardins de la Villa Rufolo et de la Villa Cimbrone.",
+        "<strong>🚶‍♀️</strong>: Flânerie dans le village de Ravello et ses boutiques d'artisanat.",
+        "<strong>🚌</strong>: Retour à Positano en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ravello, Salerne",
+          "categorie": "Village",
+          "coords": { "lat": 40.6500, "lng": 14.6000 }
+        },
+        {
+          "nom_recherche": "Villa Rufolo, Ravello",
+          "categorie": "Jardin historique",
+          "coords": { "lat": 40.6500, "lng": 14.6050 }
+        },
+        {
+          "nom_recherche": "Villa Cimbrone, Ravello",
+          "categorie": "Jardin historique",
+          "coords": { "lat": 40.6480, "lng": 14.6070 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les vues depuis les jardins de Ravello sont parmi les plus belles de la Côte Amalfitaine. Préparez votre appareil photo !"
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🌊",
+      "titre": "Derniers Instants sur la Côte et Retour vers Naples",
+      "legende": "Profitez d'une dernière matinée relaxante sur la Côte Amalfitaine, peut-être pour une baignade matinale ou un café en terrasse. L'après-midi, vous reprendrez le chemin de Naples pour une dernière soirée animée avant le retour à Rome.",
+      "lieu": "Positano / Naples",
+      "activites": [
+        "<strong>☕</strong>: Matinée libre à Positano pour profiter de la plage ou des boutiques.",
+        "<strong>🚌</strong>: Transfert de Positano à Naples (bus ou ferry via Sorrente).",
+        "<strong>🚶‍♂️</strong>: Dîner d'adieu à Naples, peut-être dans un quartier différent."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Positano, Salerne",
+          "categorie": "Village côtier",
+          "coords": { "lat": 40.6291, "lng": 14.4849 }
+        },
+        {
+          "nom_recherche": "Naples, Campanie",
+          "categorie": "Ville",
+          "coords": { "lat": 40.8518, "lng": 14.2681 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "🍝",
+          "titre": "Dîner",
+          "texte": "Pour votre dernière soirée à Naples, explorez le quartier de Chiaia pour une ambiance plus chic ou le Quartier Espagnol pour une expérience plus authentique."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🚄",
+      "titre": "Retour à Rome et Soirée Romaine",
+      "legende": "Reprenez le train de Naples à Rome pour votre dernière nuit en Italie. Profitez de cette soirée pour revisiter un lieu coup de cœur, faire quelques achats de dernière minute ou simplement savourer un dernier repas romain dans une ambiance décontractée.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🚄</strong>: Trajet en train à grande vitesse de Naples à Rome (environ 1h10).",
+        "<strong>🛏️</strong>: Installation à l'hôtel à Rome.",
+        "<strong>🛍️</strong>: Temps libre pour le shopping de souvenirs ou une dernière balade.",
+        "<strong>🍝</strong>: Dîner d'adieu dans un restaurant romain typique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Naples Centrale, Naples",
+          "categorie": "Gare",
+          "coords": { "lat": 40.8522, "lng": 14.2721 }
+        },
+        {
+          "nom_recherche": "Gare de Rome Termini, Rome",
+          "categorie": "Gare",
+          "coords": { "lat": 41.9010, "lng": 12.5000 }
+        }
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Pour des souvenirs authentiques, explorez les petites boutiques autour du Panthéon ou dans le quartier de Campo de' Fiori."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🛫",
+      "titre": "Départ de Rome",
+      "legende": "C'est le moment de dire \"Arrivederci\" à l'Italie. Profitez d'un dernier petit-déjeuner italien avant de vous rendre à l'aéroport pour votre vol retour vers la France, la tête pleine de souvenirs inoubliables.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>☕</strong>: Petit-déjeuner à l'hôtel.",
+        "<strong>🚆</strong>: Transfert vers l'aéroport de Rome Fiumicino (FCO).",
+        "<strong>🛫</strong>: Vol retour vers Paris CDG."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Rome Fiumicino, Rome",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.8002, "lng": 12.2389 }
+        }
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de Départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'embarquement, surtout si votre vol est tôt le matin."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 154 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (trains, bus, ferry, location voiture 3 jours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 900 €/pers (60 €/jour x 15 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1800 €/pers (120 €/nuit x 15 nuits, hôtels 3* ou agriturismo)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 200 €/pers (musées, thermes, dégustation, bateau Capri)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "☀️" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai-juin, les températures sont agréables (18-28°C). Prévoyez des vêtements légers, mais aussi une petite veste pour les soirées et les lieux climatisés.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite est à droite. Attention aux ZTL (zones à trafic limité) dans les villes.", "symbole": "🚗" },
+    { "titre": "L'italien est la langue officielle. Quelques notions de base seront appréciées. L'anglais est parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Pensez à une eSIM ou une carte SIM locale pour rester connecté. Le Wi-Fi est généralement disponible dans les hébergements.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "La Légende de la Fontaine de Trevi",
+      "texte": "Jeter une pièce de monnaie dans la Fontaine de Trevi, dos à la fontaine et par-dessus l'épaule gauche, assure votre retour à Rome. Deux pièces garantissent une nouvelle romance, et trois un mariage !"
+    },
+    {
+      "symbole": "🐈",
+      "titre": "Les Chats de Rome",
+      "texte": "Rome est célèbre pour ses colonies de chats errants, particulièrement autour des ruines antiques comme le Largo di Torre Argentina. Ces chats sont protégés par la loi et sont devenus une partie intégrante du paysage romain."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍕",
+      "titre": "Pizza Napoletana",
+      "description": "La véritable pizza, originaire de Naples, avec sa pâte fine et moelleuse, cuite au feu de bois et garnie de tomates San Marzano, mozzarella di bufala et basilic frais."
+    },
+    {
+      "symbole": "🍝",
+      "titre": "Pasta Carbonara",
+      "description": "Un classique romain, des pâtes (souvent des spaghetti ou rigatoni) avec une sauce crémeuse à base d'œufs, de guanciale (joue de porc salée), de pecorino romano et de poivre noir."
+    },
+    {
+      "symbole": "🍦",
+      "titre": "Gelato Artigianale",
+      "description": "Bien plus qu'une simple glace, le gelato italien est préparé avec des ingrédients frais et naturels, offrant une texture onctueuse et des saveurs intenses, parfait pour une pause rafraîchissante."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FCO/2026-05-18/2026-06-02", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Italie Tourisme", "url": "https://www.italia.it/fr", "symbole": "📘" },
+    { "legende": "Horaires des trains", "titre": "Trenitalia", "url": "https://www.trenitalia.com/fr.html", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Italie", "url": "https://www.ilmeteo.it/", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "Rentalcars", "url": "https://www.rentalcars.com/", "symbole": "🚗" }
+  ]
+}
